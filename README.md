@@ -1,2 +1,1 @@
-# dojoGit The Simplest ERP Ever
-En develop
+# dojoGit The Simplest ERP Ever V0.1.0
